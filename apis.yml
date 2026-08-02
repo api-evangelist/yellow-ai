@@ -1,4 +1,16 @@
 aid: yellow-ai
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/yellow-ai.png
 name: Yellow Ai
 description: Yellow Ai is a company surfaced as a portfolio company of lightspeed-venture-partners and
   added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
